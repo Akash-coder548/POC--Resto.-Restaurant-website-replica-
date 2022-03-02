@@ -30,6 +30,11 @@ User should be able to pay by COD.
 
 
  ![image](https://user-images.githubusercontent.com/70899475/156320581-ece9e04a-9d30-408a-891b-4b37bfc7cd47.png)
+ 
+ ![image](https://user-images.githubusercontent.com/70899475/156368977-33dcec2f-bf11-4ba9-bc19-2a6173e3e6c5.png)
+
+ ![image](https://user-images.githubusercontent.com/70899475/156369197-bdacca12-4e9a-472c-9eec-4426574d399b.png)
+
 
 
 **we should follow a step to make restaurant website:-**
